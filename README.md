@@ -12,7 +12,7 @@ A set of themes inspired on programming languages.
 ### Themes
 1. Clone this repo:
 ```sh
-$ git clone https://github.com/vlari/xcode-codebase-theme.git
+git clone https://github.com/vlari/xcode-codebase-theme.git
 ```
 
 2. Paste the theme to this location:
